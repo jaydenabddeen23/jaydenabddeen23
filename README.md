@@ -1,16 +1,13 @@
-<h1>Hi, I'm Jayden! 
+<h1>Hi, I'm Jayden!</h1>
 
-<h2>👨‍💻IT Support Specialist Projects:</h2>
+<h2>👨‍💻It Support Specialist Projects:</h2>
 
-- Remote Desktop Home Lab  (https://github.com/joshcybertest/LABURL} </b>
-  
+  - [Remote Desktop Home Lab ](https://github.com/jaydenabddeen23/LABURL)
+
 <h2>Certifications</h2>
+
 - ITIL v4 Foundations 
-
-
-<h2> Currently Studying </h2>
-- COMPTIA A+ 1202 & 1201 
-
+- Comptia A+ (In progress)
 
 <h2>📺 Popular YouTube Videos</h2>
 
