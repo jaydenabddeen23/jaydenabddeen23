@@ -4,11 +4,12 @@
 
 - Remote Desktop Home Lab </b>
   
-<h2> Education & Certifications</h2>
+<h2>Certifications</h2>
+- ITIL v4 Foundations 
 
 
 <h2> Currently Studying </h2>
-
+- COMPTIA A+ 1202 & 1201 
 
 
 <h2>📺 Popular YouTube Videos</h2>
